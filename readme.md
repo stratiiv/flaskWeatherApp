@@ -1,0 +1,1 @@
+## Simple app to track weather in choosen cities
